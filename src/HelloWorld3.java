@@ -2,9 +2,9 @@ public class HelloWorld3 {
     int x = 5;
 
     public HelloWorld3(){
-        System.out.print(){
-            System.out.println("Creating HelloWorld object");
-        }
+
+        System.out.println("Creating HelloWorld object");
+
     }
 
     public static void mian(String[] args){
