@@ -1,6 +1,7 @@
 // A program that deals with 2D points.
 public class PointMain {
     public static void main(String[] args) {
+
         // create two Point objects
         Point p1 = new Point();
         p1.x = 5;
