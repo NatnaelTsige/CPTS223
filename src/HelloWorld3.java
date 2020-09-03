@@ -4,6 +4,7 @@ public class HelloWorld3 {
     public HelloWorld3(){
 
         System.out.println("Creating HelloWorld object");
+        System.out.println("Creating HelloWorld object");
 
     }
 
